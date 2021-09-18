@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskRunner.Dto\TaskRunner.Dto.csproj" />
+    <ProjectReference Include="..\TaskRunner.Utility\TaskRunner.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
